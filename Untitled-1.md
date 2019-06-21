@@ -228,6 +228,7 @@ $\sum_{k=1}^{N}x(t_k)\cdot\dfrac{b - a}{N}$
 如下：
 * $a x b$: `a x b`
 * $a \times b$: `a \times b`
+* ![](http://latex.codecogs.com/gif.latex?\\frac{\\partial J}{\\partial \\theta_k^{(j)}}=\\sum_{i:r(i,j)=1}{\\big((\\theta^{(j)})^Tx^{(i)}-y^{(i,j)}\\big)x_k^{(i)}}+\\lambda \\xtheta_k^{(j)})
 
 
 
